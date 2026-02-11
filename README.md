@@ -13,8 +13,10 @@ Me motiva el aprendizaje continuo y la innovación. Mantengo una actitud proacti
 * [Tecnologías](#tecnologias)
 * [Proyectos Destacados](#proyectos-destacados)  
 * [Intereses](#intereses)  
-* [Contacto](#contacto)
-
+* [Lenguajes de Programación](#lenguajes-programacion)
+* [Educación](#educacion)
+* [Contacto](#contactos)
+  
 ---
 
 ## 🛠️ Habilidades Técnicas {#habilidades-tecnicas}
@@ -62,13 +64,18 @@ Aquí encontrarás los proyectos que he realizado a lo largo de mi carrera.
 | **Curriculm**    | Curriculum Vitae                              | HTML, CSS      | [Ver más](https://jair-chaguay.github.io/curriculum/) |
 | **Marvel+**    | Landing Page de Peliculas y Series de Marvel                              | HTML, CSS, JS    | [Ver más](https://jair-chaguay.github.io/landing_Page/)|
 
+---
+
 ## Intereses {#intereses}
 - IoT
 - Programación
 - Inteligencia artificial
 - Desarrollo web
 - Software libre
-### Lenguajes de Programación
+
+---
+
+## Lenguajes de Programación {#lenguajes-programacion}
 
 | Lenguaje          | Nivel        |
 |-------------------|--------------|
@@ -80,14 +87,16 @@ Aquí encontrarás los proyectos que he realizado a lo largo de mi carrera.
 | CSS              | Intermedio       |
 | JavaScript        | Básico     |
 
-## Educación
+---
+
+## Educación {#educacion}
 
 | Institución                     | Grado                | Año            |
 |---------------------------------|----------------------|----------------|
 | Escuela Superior Politecnica del Litoral              | Ingeniería en Computación| 2021 - Presente |
 | Colegio San Benildo La Salle                     | Bachillerato Técnico | 2018 - 2020    |
 
---
+---
 
 ## 📬 Contactos {#contactos}
 ¡Si deseas ponerte en contacto conmigo, aquí tienes mis redes sociales y correo electrónico!
