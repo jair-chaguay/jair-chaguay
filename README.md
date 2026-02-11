@@ -19,7 +19,7 @@ Me motiva el aprendizaje continuo y la innovación. Mantengo una actitud proacti
   
 ---
 
-## 🛠️ Habilidades Técnicas
+## Habilidades Técnicas
 ### Lenguajes y herramientas
 
 <p align="center">
@@ -36,7 +36,7 @@ Me motiva el aprendizaje continuo y la innovación. Mantengo una actitud proacti
 
 ---
 
-## 💻 Tecnologías
+## Tecnologías
 
 Durante el curso se aprendieron y aplicaron diversas tecnologías, herramientas y frameworks:
 - **HTML**: Estructuración semántica y accesible de aplicaciones.
@@ -98,7 +98,7 @@ Aquí encontrarás los proyectos que he realizado a lo largo de mi carrera.
 
 ---
 
-## 📬 Contactos
+## Contactos
 ¡Si deseas ponerte en contacto conmigo, aquí tienes mis redes sociales y correo electrónico!
 - **🐱**: [GitHub](https://github.com/jair-chaguay)
 - **Correo electrónico:** [jchaguay@espol.edu.ec](mailto:jchaguay@espol.edu.ec)
