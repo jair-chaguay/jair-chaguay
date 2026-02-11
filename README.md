@@ -6,19 +6,48 @@ Me motiva el aprendizaje continuo y la innovación. Mantengo una actitud proacti
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNms2aTA1MXNscnBkeWl2NWpwNzJobzdleGhnOGpjamFpNzg5ZHUwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif" alt="Fondo Bonito">
 </p>
 
-## Contenido
-* [Información personal](#información-personal)
-* [Proyectos](#proyectos)
-* [Intereses](#intereses)
-* [Habilidades](#habilidades)
-* [Educación](#educación)
+---
+
+## 📑 Tabla de Contenido
+* [Habilidades Técnicas](#habilidades-tecnicas)
+* [Tecnologías](#tecnologias)
+* [Proyectos Destacados](#proyectos-destacados)  
+* [Intereses](#intereses)  
 * [Contacto](#contacto)
-## Información personal
-* **Nombre:** Jair Alexander Chaguay Chóez
-* **Ocupación:** Estudiante/Programador
-* **Lugar de residencia:** Guayaquil-Ecuador
-* **Sitio web:** [Tu sitio web](https://jair-chaguay.github.io/curriculum/)
-## Proyectos
+
+---
+
+## 🛠️ Habilidades Técnicas {#habilidades-tecnicas}
+### Lenguajes y herramientas
+
+<p align="center">
+  <img src="https://i.pinimg.com/736x/ca/e1/b4/cae1b4f6b223fe5a7bb712b680cffa67.jpg" alt="HTML" width="50" height="50">
+  <img src="https://i.pinimg.com/736x/62/1f/21/621f21fa891b48023ff7c4dff12c7aa0.jpg" alt="CSS" width="50" height="50">
+  <img src="https://i.pinimg.com/736x/ed/66/63/ed666327dd3ce274d94f2b3547155891.jpg" alt="Python" width="50" height="50">
+  <img src="https://i.pinimg.com/736x/0e/4f/dc/0e4fdce8ac22e09688c580e5bc4dcd7d.jpg" alt="JavaScript" width="50" height="50">
+  <img src="https://i.pinimg.com/736x/86/ad/01/86ad01aac334ed269e9d33dab95a2217.jpg" alt="Java" width="50" height="50">
+  <img src="https://i.pinimg.com/736x/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.jpg" alt="C" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png" alt="Figma" width="50" height="50">
+  <img src="https://www.esepestudio.com/archivos/image/_noticias/medias/mysql.gif" alt="MySQL" width="50" height="50">
+</p>
+
+---
+
+## 💻 Tecnologías {#tecnologias}
+
+Durante el curso se aprendieron y aplicaron diversas tecnologías, herramientas y frameworks:
+- **HTML**: Estructuración semántica y accesible de aplicaciones.
+- **CSS**: Diseño visual, layouts flexibles y responsive design.
+- **JavaScript (JS)**: Para lógica y manipulación del DOM.
+- **TypeScript**: Código estructurado y con tipado estático.
+- **React**: Creación de interfaces de usuario con componentes reutilizables.
+- **JSON**: Intercambio eficiente de datos con APIs y bases de datos.
+- **Firebase**: Autenticación, bases de datos en tiempo real y hosting en la nube.
+
+---
+
+## Proyectos Destacados {#proyectos-destacados}
 Aquí encontrarás los proyectos que he realizado a lo largo de mi carrera.
 ### Lista de Proyectos
 
@@ -33,9 +62,10 @@ Aquí encontrarás los proyectos que he realizado a lo largo de mi carrera.
 | **Curriculm**    | Curriculum Vitae                              | HTML, CSS      | [Ver más](https://jair-chaguay.github.io/curriculum/) |
 | **Marvel+**    | Landing Page de Peliculas y Series de Marvel                              | HTML, CSS, JS    | [Ver más](https://jair-chaguay.github.io/landing_Page/)|
 
-## Intereses
-- Desarrollar una aplicación en base a una IA
-- Machine Learning
+## Intereses {#intereses}
+- IoT
+- Programación
+- Inteligencia artificial
 - Desarrollo web
 - Software libre
 ### Lenguajes de Programación
@@ -57,6 +87,9 @@ Aquí encontrarás los proyectos que he realizado a lo largo de mi carrera.
 | Escuela Superior Politecnica del Litoral              | Ingeniería en Computación| 2021 - Presente |
 | Colegio San Benildo La Salle                     | Bachillerato Técnico | 2018 - 2020    |
 
+--
 
-## Contacto
+## 📬 Contactos {#contactos}
+¡Si deseas ponerte en contacto conmigo, aquí tienes mis redes sociales y correo electrónico!
+- **🐱**: [GitHub](https://github.com/jair-chaguay)
 - **Correo electrónico:** [jchaguay@espol.edu.ec](mailto:jchaguay@espol.edu.ec)
