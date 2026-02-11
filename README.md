@@ -1,6 +1,11 @@
-# Mi sitio personal
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
-proyectos y mis intereses.
+# ¡Bienvenido a mi repositorio! 👋
+Hola soy **Jair Chaguay ** estudiante de Computación en la ESPOL, apasionada por la tecnología y por descubrir nuevas formas de aplicar el conocimiento en proyectos innovadores. Me interesan especialmente el desarrollo web y móvil, y disfruto explorando herramientas y lenguajes con los que estoy construyendo una base sólida de habilidades técnicas.
+Me motiva el aprendizaje continuo y la innovación. Mantengo una actitud proactiva frente a las nuevas tendencias tecnológicas y busco retos que impulsen mi crecimiento y evolución profesional.
+
+<p align="center">
+  <img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRtN3k0b29vY3RlcGh2MWFzMWtsc2M3Y2dpazltNnQ3NTE2am01ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.webp](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNms2aTA1MXNscnBkeWl2NWpwNzJobzdleGhnOGpjamFpNzg5ZHUwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif)" alt="Fondo Bonito">
+</p>
+
 ## Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
