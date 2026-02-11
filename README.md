@@ -19,7 +19,7 @@ Me motiva el aprendizaje continuo y la innovación. Mantengo una actitud proacti
   
 ---
 
-## 🛠️ Habilidades Técnicas {#habilidades-tecnicas}
+## 🛠️ Habilidades Técnicas
 ### Lenguajes y herramientas
 
 <p align="center">
@@ -36,7 +36,7 @@ Me motiva el aprendizaje continuo y la innovación. Mantengo una actitud proacti
 
 ---
 
-## 💻 Tecnologías {#tecnologias}
+## 💻 Tecnologías
 
 Durante el curso se aprendieron y aplicaron diversas tecnologías, herramientas y frameworks:
 - **HTML**: Estructuración semántica y accesible de aplicaciones.
@@ -49,7 +49,7 @@ Durante el curso se aprendieron y aplicaron diversas tecnologías, herramientas 
 
 ---
 
-## Proyectos Destacados {#proyectos-destacados}
+## Proyectos Destacados
 Aquí encontrarás los proyectos que he realizado a lo largo de mi carrera.
 ### Lista de Proyectos
 
@@ -66,7 +66,7 @@ Aquí encontrarás los proyectos que he realizado a lo largo de mi carrera.
 
 ---
 
-## Intereses {#intereses}
+## Intereses
 - IoT
 - Programación
 - Inteligencia artificial
@@ -75,7 +75,7 @@ Aquí encontrarás los proyectos que he realizado a lo largo de mi carrera.
 
 ---
 
-## Lenguajes de Programación {#lenguajes-programacion}
+## Lenguajes de Programación
 
 | Lenguaje          | Nivel        |
 |-------------------|--------------|
@@ -89,7 +89,7 @@ Aquí encontrarás los proyectos que he realizado a lo largo de mi carrera.
 
 ---
 
-## Educación {#educacion}
+## Educación
 
 | Institución                     | Grado                | Año            |
 |---------------------------------|----------------------|----------------|
@@ -98,7 +98,7 @@ Aquí encontrarás los proyectos que he realizado a lo largo de mi carrera.
 
 ---
 
-## 📬 Contactos {#contactos}
+## 📬 Contactos
 ¡Si deseas ponerte en contacto conmigo, aquí tienes mis redes sociales y correo electrónico!
 - **🐱**: [GitHub](https://github.com/jair-chaguay)
 - **Correo electrónico:** [jchaguay@espol.edu.ec](mailto:jchaguay@espol.edu.ec)
