@@ -9,17 +9,17 @@ Me motiva el aprendizaje continuo y la innovación. Mantengo una actitud proacti
 ---
 
 ## 📑 Tabla de Contenido
-* [Habilidades Técnicas](#habilidades-tecnicas)
-* [Tecnologías](#tecnologias)
+* [Habilidades Tecnicas](#habilidades-tecnicas)
+* [Tecnologias](#tecnologias)
 * [Proyectos Destacados](#proyectos-destacados)  
 * [Intereses](#intereses)  
-* [Lenguajes de Programación](#lenguajes-programacion)
-* [Educación](#educacion)
-* [Contacto](#contactos)
+* [Lenguajes de Programacion](#lenguajes-programacion)
+* [Educacion](#educacion)
+* [Contactos](#contactos)
   
 ---
 
-## Habilidades Técnicas
+## Habilidades Tecnicas
 ### Lenguajes y herramientas
 
 <p align="center">
@@ -36,7 +36,7 @@ Me motiva el aprendizaje continuo y la innovación. Mantengo una actitud proacti
 
 ---
 
-## Tecnologías
+## Tecnologias
 
 Durante el curso se aprendieron y aplicaron diversas tecnologías, herramientas y frameworks:
 - **HTML**: Estructuración semántica y accesible de aplicaciones.
@@ -75,7 +75,7 @@ Aquí encontrarás los proyectos que he realizado a lo largo de mi carrera.
 
 ---
 
-## Lenguajes de Programación
+## Lenguajes de Programacion
 
 | Lenguaje          | Nivel        |
 |-------------------|--------------|
@@ -89,7 +89,7 @@ Aquí encontrarás los proyectos que he realizado a lo largo de mi carrera.
 
 ---
 
-## Educación
+## Educacion
 
 | Institución                     | Grado                | Año            |
 |---------------------------------|----------------------|----------------|
